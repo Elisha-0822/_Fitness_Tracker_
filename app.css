@@ -1,0 +1,20 @@
+body {
+    background-color: #da2bc9;
+    color: rgb(187, 47, 47);
+  }
+  
+  .card {
+    background-color: #28394f;
+    border: none;
+    color: rgb(75, 106, 206);
+  }
+  #timerDisplay {
+    font-size: 3rem;
+    color: #00ff88;
+  }
+  
+  .list-group-item {
+    background-color: #f8f9fa;
+    color: #5952bd;
+  }
+  
